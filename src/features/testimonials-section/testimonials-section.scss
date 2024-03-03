@@ -1,0 +1,16 @@
+.testimonials-section {
+    .swiper-pagination-custom {
+        margin-top: 50px;
+        .swiper-pagination-bullet {
+            transition: all .2s linear;
+            width: 18px !important;
+            height: 18px !important;
+        }
+
+        .swiper-pagination-bullet-active {
+            background: #FF611D;
+            width: 36px !important;
+            border-radius: 10px !important;
+        }
+    }
+}
